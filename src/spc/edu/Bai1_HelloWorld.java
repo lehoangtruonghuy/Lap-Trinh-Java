@@ -11,5 +11,6 @@ package spc.edu;
 public class Bai1_HelloWorld {
     public static void main(String[] args) {
         System.out.println("SPCer hello world!");
+        
     }
 }
