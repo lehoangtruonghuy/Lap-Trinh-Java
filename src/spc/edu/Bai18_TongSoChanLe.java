@@ -4,6 +4,8 @@
  */
 package spc.edu;
 
+import java.util.Scanner;
+
 /**
  *
  * @author Administrator
